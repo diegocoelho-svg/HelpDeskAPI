@@ -1,0 +1,14 @@
+{
+  "name": "helpdeskapi",
+  "version": "1.0.0",
+  "main": "src/server.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch src/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Diego Coelho",
+  "license": "ISC",
+  "description": "API de gerenciamento de tickets de suporte"
+}
